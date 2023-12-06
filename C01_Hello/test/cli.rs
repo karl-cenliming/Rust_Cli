@@ -17,15 +17,22 @@ fn runs(){
  */
 use assert_cmd::Command;
 
-[#test]
+#[test]
 fn runs(){
     //在这里的test case 是如何和主程序关联上的，不清楚，我在修改了cargo_bin参数之后，cargo test 还是
     //运行的main.rs 有点不能理解
-    let mut cmd = Command::cargo_bin("hello").unwarp();
-    cmd.assert().success();
+    let mut cmd = Command::cargo_bin("c01_hello").unwarp();
+    cmd.assert().success().stdout("hello, world!\n");
 }
 
+#[test]
 fn true_ok(){
     let mut cmd = Command::cargo_bin("true").unwarp();
     cmd.assert().success();
+}
+
+#[test]
+fn false_not_ok(){
+    let mut cmd = Command::cargo_bin("false").unwarp();
+    cmd.assert().failure();
 }

@@ -1,5 +1,5 @@
 [package]
-name = "c01_hello"
+name = "hello"
 version = "0.1.0"
 edition = "2021"
 
@@ -8,5 +8,4 @@ edition = "2021"
 [dependencies]
 
 [dev-dependencies]
-assert_cmd = "1"
-
+assert_cmd = "2"
