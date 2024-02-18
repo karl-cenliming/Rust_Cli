@@ -1,0 +1,11 @@
+C:\N-20N3PF24NTZW-Data\kkarl\Documents\RustProj\Rust_Cli\c01_hello2\target\debug\deps\assert_cmd-e14cc8e5ffc84a84.rmeta: C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\lib.rs C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\assert.rs C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cargo.rs C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cmd.rs C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\output.rs C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\color.rs C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\../README.md
+
+C:\N-20N3PF24NTZW-Data\kkarl\Documents\RustProj\Rust_Cli\c01_hello2\target\debug\deps\assert_cmd-e14cc8e5ffc84a84.d: C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\lib.rs C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\assert.rs C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cargo.rs C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cmd.rs C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\output.rs C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\color.rs C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\../README.md
+
+C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\lib.rs:
+C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\assert.rs:
+C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cargo.rs:
+C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cmd.rs:
+C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\output.rs:
+C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\color.rs:
+C:\Users\kkarl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\../README.md:
